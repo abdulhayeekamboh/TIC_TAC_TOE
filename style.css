@@ -6,6 +6,9 @@ html,body {
     height: 100%;
     width: 100%;
 }
+html {
+    cursor: url('./selection_cursor_adobe_illustrator_tool_icon_189024.ico'), default;
+}
 main {
     height: 100%;
     width: 100%;
