@@ -69,7 +69,7 @@ main {
     justify-content: center;
     display: flex;
     font-weight: bold;
-    cursor: pointer;
+    
     border-radius: 12px;
     background-color: salmon;
 }
@@ -90,7 +90,7 @@ main {
     height:5vh;
     width: 12vw;
     border: 0.2px solid salmon;
-    cursor: pointer;
+    
 }
 
 @media (max-width:600px) {
